@@ -12,3 +12,7 @@ This python script orders your Dominos (Single person deal) order in under 30 se
 <p></p>
 
 ![](first.GIF)
+
+![](second.GIF)
+
+![](three.GIF)
