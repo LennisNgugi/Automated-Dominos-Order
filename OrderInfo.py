@@ -1,0 +1,5 @@
+postcode = 'YourPostCode'
+fullname = 'Enter FullName'
+contact = '07811111111'
+emailaddress = 'Enter email address you want to receive order number to'
+DriverInstructions = 'Ordered by Lennis Bot'
