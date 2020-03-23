@@ -1,7 +1,6 @@
 # Automated-Dominos-Order
-This python based tool was designed to help less able twitter users to tweet with more ease. 
-<p>Functions: Login using both user/email and password and send tweet</p>
-<p>Additional functions will be added in due time</p>
+This python script orders your Dominos (Single person deal) order in under 30 seconds 
+<p>Functions: Orders my favourite Dominos deal order in 20 seconds</p>
 
 # Requirements
 <p>pip install selenium</p>
