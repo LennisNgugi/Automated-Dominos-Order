@@ -1,4 +1,4 @@
-# Automated-Dominos-Order
+# Automated Dominos Order
 This python script orders my favourite Dominos deal in under 20 seconds 
 
 # Requirements 
